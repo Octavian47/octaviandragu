@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Octavian Dragu  
 
-💻 **Full-Stack Developer** | Next.js • React • React Native • Laravel • Python Flask  
+💻 **Full-Stack Developer** | Next.js • React • React Native • NestJS • Python Flask  • Laravel
 📍 Based in Switzerland  
 
 🔹 4+ years of experience building **secure, scalable, and responsive applications**.  
