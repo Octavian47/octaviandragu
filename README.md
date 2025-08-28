@@ -1,35 +1,42 @@
-# Hi there, I'm Octavian Dragu! 👋
+# 👋 Hi, I'm Octavian Dragu  
 
-🚀 **Full-Stack Developer** | PHP | Laravel | React | Node.js | TypeScript  
-📍 **Based in Switzerland**  
+💻 **Full-Stack Developer** | Next.js • React • React Native • Laravel • Python Flask  
+📍 Based in Switzerland  
 
-🔹 I specialize in building secure, scalable, and responsive applications.  
-🔹 Passionate about **AI, Cybersecurity, and Blockchain**.  
-🔹 Always exploring new technologies and improving developer workflows.
-
-## 🔧 **Tech Stack**
-- **Languages**: PHP, JavaScript (ES6+), TypeScript  
-- **Frontend**: React.js, Next.js, Angular  
-- **Backend**: Laravel, Node.js, Nest.js, Express.js  
-- **Databases**: MySQL, PostgreSQL, NoSQL (MongoDB), Redis, Elasticsearch  
-
-## 🛠 **Development Tools**
-- Git, GitHub, Copilot, Cursor, ChatGPT  
-
-## ⚙️ **Infrastructure & DevOps**
-- AWS, Docker  
-
-## 🏅 **Certifications**
-✅ **Certified Ethical Hacker (CEH)** – Minor at NHL Stenden  
-✅ **Blockchain Technology Certification** – Minor at NHL Stenden  
-
-## 🌱 **Interests**
-🧠 **Neural Networks & AI**  
-⚡ **Emerging Technologies**  
-🧑‍💻 **Quantum Computers**  
-🔒 **Cybersecurity**  
-🔗 **Blockchain**  
+🔹 4+ years of experience building **secure, scalable, and responsive applications**.  
+🔹 Co-Founder of [Stackmint.dev](https://www.stackmint.dev) – delivering SaaS platforms in legal tech and productivity.  
+🔹 Worked with clients across **Switzerland, Romania, the Netherlands, and the UK**.  
+🔹 Passionate about **AI, cloud platforms, and modern developer workflows**.  
 
 ---
 
-🚀 *Open to new projects & collaborations. Let’s build something amazing together!* 🤝
+## 🔹 Experience Highlights  
+- Built and deployed **scalable web and mobile applications** across Europe.  
+- Co-founded [Stackmint.dev](https://stackmint.dev), delivering SaaS platforms in **legal tech and productivity**.  
+- Delivered solutions for industries including **e-commerce, blockchain, and business management**.  
+
+---
+
+## 🛠 Tech Stack  
+**Core Languages**: PHP, JavaScript (ES6+), TypeScript, Python  
+**Frameworks & Libraries**: React.js, React Native, Next.js, Nest.js, Express.js, Laravel, Flask  
+**Databases & Cloud**: SQL, NoSQL (MongoDB), Supabase, Firebase, AWS, Render  
+**Tools**: Git, GitHub, Docker, Cursor, ChatGPT  
+
+---
+
+## 🏅 Certifications  
+- ✅ **Certified Ethical Hacker (CEH)** – Minor at NHL Stenden  
+- ✅ **Blockchain Technology Certification** – Minor at NHL Stenden  
+
+---
+
+## 🌱 Interests  
+🤖 Artificial Intelligence (Neural Networks, LLMs, AI Agents)  
+🔒 Cybersecurity  
+🔗 Blockchain & Emerging Technologies  
+⚡ Cloud & Scalable Architectures  
+
+---
+
+🚀 Open to collaborations and exciting new projects. Let’s build something amazing together! 🤝  
